@@ -1,10 +1,8 @@
-### Hi there 👋
+# Hi! 👋
+My name is Kacper and I write code in JavaScript language. I use [Vue.js](https://vuejs.org/) framework on a daily basis, but I like some lighter solutions too, f.e. [Svelte](https://svelte.dev/) framework or writing clear JS code.
 
-**I'm a 18 years old Front-end Developer (only "wannabe" yet). Currently based in Łódź, Poland.**
+I like atypical projects (_to-do list and calculator are not atypicals!_). For learning and understanding how Vue.js works I created mini game [pickcolor.fun](https://pickcolor.fun). My code you can see [here](https://github.com/kstawinski/pickcolor.fun). Recently I got interested creating apps using [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps). My other project that I'm proud of is [picker of Material Design icons](https://github.com/kstawinski/mdicons) - if you will give me some feedback, I will be very pleased! 
 
-- 🔭  I’m currently working on my **first Progressive Web App** that will help me with work.
-- 🎮  I'm proud of my small game – **[🚀 pickcolor.fun](https://pickcolor.fun)** ([repository](https://github.com/kstawinski/pickcolor.fun))
-- 🌱  I’m currently learning [Vue.js](https://vuejs.org/) and [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) technology. 
-- 📚  I already have some knowledge in `JavaScript`, `Vue.js`, `PHP`, `SQL` and `HTML`, `CSS`.
-- 📫  Reach me by mail if you need something: [`stawinskidev@gmail.com`](mailto:stawinskidev@gmail.com).
-- 🏍️  Fun fact: I'm a motorcyclist! ⚡
+I’m currently based in Łódź, Poland. Reach me by e-mail, if you want: [`stawinskidev@gmail.com`](mailto:stawinskidev@gmail.com).
+
+**Have a nice day! 😁**
