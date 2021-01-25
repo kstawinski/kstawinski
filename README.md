@@ -5,4 +5,4 @@ I like atypical projects (_to-do list and calculator are not atypicals!_). For l
 
 I’m currently based in Łódź, Poland. Reach me by e-mail, if you want: [`stawinskidev@gmail.com`](mailto:stawinskidev+github@gmail.com).
 
-**Have a nice day! 😁**
+**Have a nice day! ❤️**
